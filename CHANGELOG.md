@@ -1,3 +1,3 @@
-## 0.0.2
+## 1.0.0
 
-* This is the first release of the package
+* Added PUT,POST,PATCH and DELETE methodss
