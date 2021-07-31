@@ -1,7 +1,7 @@
 name: httpservice
 description: A project that contains helper classes to help with http package.(only get is supported for now)
 version: 0.0.1
-homepage: https://hamas-ur-rehman.github.io/webportfolio/#/
+homepage: https://github.com/Hamas-ur-Rehman/httpservice
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
