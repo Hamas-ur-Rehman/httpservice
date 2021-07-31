@@ -27,7 +27,7 @@ void getapidata(String apix) async {
 
 ```
 
-# GET
+### GET
 
 ```dart
 import 'dart:convert';
