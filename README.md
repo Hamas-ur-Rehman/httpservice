@@ -43,7 +43,7 @@ void getapidata(String apix) async {
 ```
 
 
-# POST
+### POST
 
 ```dart
 import 'dart:convert';
@@ -57,7 +57,7 @@ void postapidata(String apix) async {
 ```
 
 
-# PUT
+### PUT
 
 ```dart
 import 'dart:convert';
@@ -70,7 +70,7 @@ void postapidata(String apix) async {
 
 ```
 
-# PATCH
+### PATCH
 
 ```dart
 import 'dart:convert';
@@ -83,7 +83,7 @@ void postapidata(String apix) async {
 
 ```
 
-# DELETE
+### DELETE
 
 ```dart
 import 'dart:convert';
